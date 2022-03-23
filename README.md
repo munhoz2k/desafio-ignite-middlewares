@@ -2,7 +2,7 @@
 > Desafio de Criação e Implementação dos Middlewares nas rotas
 
 
-> Descrições do Middlewares
+> Descrições do Middlewares logo abaixo
 ### checksExistsUserAccount
 
 Esse middleware é responsável por receber o username do usuário pelo header e validar se existe ou não um usuário com o username passado. Caso exista, o usuário deve ser repassado para o request e a função next deve ser chamada.
